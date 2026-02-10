@@ -1,0 +1,6 @@
+2026-02-04 INFO user=alice action=login status=ok
+2026-02-04 ERROR user=bob action=login status=fail
+2026-02-04 INFO user=alice action=upload status=ok
+2026-02-04 WARN user=carol action=download status=slow
+2026-02-04 ERROR user=bob action=payment status=fail
+2026-02-04 INFO user=dave action=login status=ok
