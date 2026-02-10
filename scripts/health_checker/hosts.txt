@@ -1,0 +1,4 @@
+google.com
+example.com
+localhost
+1.2.3.4
